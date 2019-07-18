@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "275517463257",
+    "firebase_url": "https://flash-chat-ae6d2.firebaseio.com",
+    "project_id": "flash-chat-ae6d2",
+    "storage_bucket": "flash-chat-ae6d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275517463257:android:97798c262f38dbd5",
+        "android_client_info": {
+          "package_name": "co.hirdan.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275517463257-28e1cpb4o2pfo4519tkajd74o1p2ordm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1t9KtL8xEqTJ_Mp9aIqR3u8B1gX9siz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275517463257-28e1cpb4o2pfo4519tkajd74o1p2ordm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
